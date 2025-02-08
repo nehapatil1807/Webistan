@@ -1,5 +1,5 @@
 body {
-    background: url("img/bg8.jpg") center center;
+    background: url("../img/bg8.jpg") center center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -34,19 +34,18 @@ body {
     margin-left: 500px;
     margin-bottom: 40px;
   }
-  #btn1,
-  #btn2 {
+  #btn {
     background-color: #eff3f6;
     border: 2px solid black;
     border-radius: 20px;
     padding: 3px;
-    margin-left: 25px;
+    margin-left: 140px;
     margin-top: 20px;
     width: 200px;
     border: 1px;
   }
 
-  #btn1:hover, #btn2:hover {
+  #btn:hover{
     background-color: #eba3ef;
     
   }

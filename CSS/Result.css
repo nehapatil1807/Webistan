@@ -1,6 +1,6 @@
 body {
     height: 690px;
-    background: url("img/bg12.jpg") center center;
+    background: url("../img/bg12.jpg") center center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
