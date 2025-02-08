@@ -1,0 +1,52 @@
+body {
+    background: url("img/bg13.jpg") center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    /* color: black; */
+  }
+  * {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #container {
+    box-shadow: 1px 1px 1px 2px #e8eaed;
+    /* background-color: rgb(229, 104, 204); */
+    width: 450px;
+    opacity: 0.7;
+    height: 450px;
+    text-align: center;
+    padding: 42px;
+    margin: 80px auto;
+    background: linear-gradient(#492fdb, #a8d3f5);
+  }
+  body {
+    font-size: 20px;
+    /* background: linear-gradient(#ef6bbc, #d8ee82); */
+  }
+
+  input {
+    width: 70%;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 15px;
+  }
+  button {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    width: 30%;
+    background: white;
+    color: #0e0101;
+    border: 2px solid #8050ef;
+    border-width: 1px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background 0.4s;
+  }
+  button:hover {
+    background: #51a0e9;
+    color: white;
+  }
+  a {
+    text-decoration: underline;
+  }

@@ -1,0 +1,46 @@
+body {
+    height: 690px;
+    background: url("img/bg7.jpg") center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  #nav1 a {
+    margin: 15px;
+  }
+  #nav1 a:hover {
+    color: rgb(153, 5, 153);
+    text-decoration: underline;
+  }
+  h1 {
+    text-align: center;
+    margin: 5px;
+  }
+  #btn {
+    font-size: large;
+    background-color: white;
+    margin-left: 650px;
+    margin-top: 250px;
+    width: 200px;
+    height: 50px;
+  }
+  #btn:hover {
+    background-color: #e3f2fd;
+  }
+  #container {
+    font-size: large;
+    margin-top: 20px;
+    margin-left: 700px;
+  }
+  #btn2 {
+    margin: 20px;
+    margin-left: 70px;
+    margin-bottom: 100px;
+    background-color: white;
+    border-radius: 30px;
+    width: 100px;
+    padding: 5px;
+  }
+  #btn2:hover {
+    background-color: #e3f2fd;
+  }

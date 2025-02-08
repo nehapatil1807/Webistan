@@ -1,0 +1,70 @@
+body {
+    background: url("img/bg11.jpg") center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    /* color: black; */
+  }
+  #nav1 a {
+    margin: 15px;
+    color: white;
+  }
+  #nav1 a:hover {
+    color: rgb(128, 5, 128);
+    text-decoration: underline;
+  } 
+  #row1 {
+    color: black;
+    background: linear-gradient(#1f0375, #785edf);
+    /* border: 1px solid black; */
+    height: 500px;
+    width: 300px;
+    display: inline-block;
+  }
+  #row2 {
+    display: inline-block;
+    /* flex-direction: column; */
+  }
+  p {
+    padding: 16px;
+  }
+  input {
+    width: 450px;
+    height: 30px;
+    padding: 3px;
+    margin: 9px;
+    background-color: rgb(9, 9, 73);
+    border: 0 px solid white;
+    border-color: #eeeeee;
+    border-style: none;
+    /* color: white; */
+    border-bottom: 2px solid #520fb7;
+  }
+
+  button {
+    margin-left: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    width: 450px;
+    background-color: white;
+    border-radius: 20px;
+    background-color: #4312b7;
+    border: 1px solid #4729be;
+    color: white;
+    font-size: large;
+  }
+  button:hover {
+    color: #1f0375;
+    background-color: white;
+  }
+
+  #btn:hover {
+    background-color: rgb(255, 255, 255);
+  }
+  #container {
+    /* opacity: 0.8px; */
+    margin-top: 45px;
+    margin-left: 370px;
+    /* box-shadow: 2px 2px 2px #b7d5eb; */
+    width: 800px;
+  }

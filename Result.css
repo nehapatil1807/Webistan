@@ -1,0 +1,37 @@
+body {
+    height: 690px;
+    background: url("img/bg12.jpg") center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  #nav1 a {
+    margin: 15px;
+  }
+  #nav1 a:hover {
+    color: rgb(153, 5, 153);
+    text-decoration: underline;
+  }
+  h1 {
+    text-align: center;
+    margin: 5px;
+    margin-top: 16px;
+  }
+  table,
+  thead,
+  th {
+    border-collapse: collapse;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 530px;
+    padding: 20px;
+    margin-top: 80px;
+  }
+  tbody,
+  td {
+    padding: 10px;
+    border-collapse: collapse;
+    border: 2px solid black;
+    text-align: center;
+  }

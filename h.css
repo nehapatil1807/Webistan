@@ -1,0 +1,81 @@
+/* Navbar styling */
+#nav1 {
+  background-color: #b8f3c7;
+  padding: 10px 0;
+  height: 80px;
+  /* opacity: 0.8; */
+}
+
+/* Centering the navbar links */
+.container-fluid {
+  font-size: larger;
+  margin-top: 8px;
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  margin-left: 135px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container-fluid img {
+  position: absolute;
+  left: 20px; /* Adjust this value as needed */
+  height: 85px; /* Adjust the logo height */
+}
+
+.navbar-brand {
+  /* margin-top: 100px; */
+  text-decoration: none;
+  font-size: 20px;
+  color: #333;
+  /* font-weight: bold; */
+  /* text-transform: uppercase; */
+  margin: 15px;
+  /* transition: color 0.3s ease; */
+}
+
+.navbar-brand:hover {
+  color: #006400;
+}
+body {
+  background: url("img/bg3.jpg") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  /* color: black; */
+  font-size: 20px;
+}
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+h1{
+  margin-left: 700px;
+}
+table {
+  margin-left: 350px;
+  width: 60%;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+.btn {
+  border: 1px;
+  border-radius: 30px;
+  padding: 5px 10px;
+  cursor: pointer;
+  margin: 0 5px;
+  opacity: 0.8;
+}
+.btn:hover{
+  background-color: rgb(99, 172, 246);
+}

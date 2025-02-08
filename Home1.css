@@ -1,0 +1,20 @@
+body {
+    background-color: white;
+  }
+  #nav1 a {
+    margin: 15px;
+  }
+  h1 {
+    text-align: center;
+    margin: 5px;
+  }
+  a.navbar-brand:hover {
+    color: rgb(243, 139, 243) !important;
+    text-decoration: underline;
+  }
+  .card-text {
+    text-align: justify;
+  }
+  .card-title {
+    text-align: center;
+  }

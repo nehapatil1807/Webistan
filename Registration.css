@@ -1,0 +1,60 @@
+body {
+    background: url("img/bg8.jpg") center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    /* color: black; */
+  }
+  #nav1 a {
+    margin: 15px;
+  }
+  #nav1 a:hover {
+    color: rgb(153, 5, 153);
+    text-decoration: underline;
+  }
+  div {
+    width: 500px;
+    /* border-radius: 0px; */
+  }
+  .row {
+    margin: 40px;
+  }
+  .container {
+    /* opacity: 0.1; */
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+    opacity: 0.8;
+    background: linear-gradient(#eb7ae0, #f5f2f5);
+    box-shadow: 2px 2px 2px #b7d5eb;
+    margin-top: 20px;
+    width: 600px;
+    border: 2px solid rgb(243, 245, 248);
+    margin-left: 500px;
+    margin-bottom: 40px;
+  }
+  #btn1,
+  #btn2 {
+    background-color: #eff3f6;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 3px;
+    margin-left: 25px;
+    margin-top: 20px;
+    width: 200px;
+    border: 1px;
+  }
+
+  #btn1:hover, #btn2:hover {
+    background-color: #eba3ef;
+    
+  }
+  #note{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 380px;
+    color: rgb(20, 1, 1);
+    font-size: larger;
+  }
+  
